@@ -62,11 +62,11 @@ Kwazam Chess is a two-player strategy game played on a 5x8 board. The initial ga
 ---
 
 ## Contributors
-- **Team Leader**:
+- **Team Leader**: ALSAMMAN, LEEN
 - **Team Members**:
-  -
-  -
-  -
+  - LEEN AWAD MOHAMMED KHAIR HUSSEIN
+  - HARITH ISKANDAR BIN MAT RADZUAN
+  - YOGAMITTRAN A/L SHANMUGAM
 
 ---
 
